@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![RAY's github stats](https://github-readme-stats.vercel.app/api?username=NinzaRJ01&hide=contribs)](https://github.com/NinzaRJ01/github-readme-stats)
 <!--
 **NinzaRJ01/NinzaRJ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
