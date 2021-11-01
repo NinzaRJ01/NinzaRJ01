@@ -2,7 +2,6 @@
 
 [![RAY's github stats](https://github-readme-stats.vercel.app/api?username=NinzaRJ01)](https://github.com/NinzaRJ01)
 
-<h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
