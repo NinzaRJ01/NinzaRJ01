@@ -5,7 +5,7 @@ function currentTime() {
     //for date
     let day = days[date.getDay()];
     let curDate =  date.getDate();
-    let month = months[date.getMonth()];
+    let month = months[date.getMonth()-1];
     let year = date.getFullYear();
 
     //for clock
